@@ -5,5 +5,5 @@ Curso de Git do Alura
 
 Para Rodar esse projeto na sua máquina:
 ```
-  configuração
+  node app.js
 ```
